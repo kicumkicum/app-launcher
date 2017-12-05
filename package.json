@@ -40,15 +40,15 @@
   ],
   "license": "Apache-2.0",
   "dependencies": {
-    "zombiebox": "0.0.193",
-    "zombiebox-extension-ui": "^0.1.2",
+    "zombiebox": "^0.1.28",
+    "zombiebox-extension-ui": "^0.1.4",
     "zombiebox-platform-dune": "0.0.44",
     "zombiebox-platform-eltex": "0.0.26",
     "zombiebox-platform-lg": "0.0.14",
     "zombiebox-platform-mag250": "0.0.35",
     "zombiebox-platform-samsung": "0.0.40",
+    "zombiebox-platform-tizen": "0.0.16",
     "zombiebox-platform-tvip": "0.0.12",
-    "zombiebox-platform-webos": "0.0.11",
-    "zombiebox-platform-tizen": "0.0.16"
+    "zombiebox-platform-webos": "0.0.11"
   }
 }
